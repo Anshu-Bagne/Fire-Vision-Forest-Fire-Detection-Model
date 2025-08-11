@@ -1,0 +1,1 @@
+# Fire-Vision-Forest-Fire-Detection-Model
